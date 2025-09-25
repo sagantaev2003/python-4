@@ -37,10 +37,16 @@ ________________________________________________________________________________
 ### 📝 Файл:
 - **main4Update.py** — код программы.
 
-### Результат - **Рейтинг персонажей:**
+### Результат - **Рейтинг персонажей**
 
 <img width="912" height="685" alt="image" src="https://github.com/user-attachments/assets/7b7c79e4-1ae2-45be-adeb-d00b7a4ef358" />
 
 <img width="965" height="385" alt="image" src="https://github.com/user-attachments/assets/f138bfbb-5e3d-40a9-915d-18fe177b40c0" />
+
+### Результат - **Сравнение персонажа**
+
+<img width="683" height="853" alt="image" src="https://github.com/user-attachments/assets/d239417c-2709-4d90-bf6e-f4a58547988c" />
+
+
 
 
