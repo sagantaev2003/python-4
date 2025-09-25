@@ -36,3 +36,11 @@ ________________________________________________________________________________
 
 ### 📝 Файл:
 - **main4Update.py** — код программы.
+
+### Результат - **Рейтинг персонажей:**
+
+<img width="912" height="685" alt="image" src="https://github.com/user-attachments/assets/7b7c79e4-1ae2-45be-adeb-d00b7a4ef358" />
+
+<img width="965" height="385" alt="image" src="https://github.com/user-attachments/assets/f138bfbb-5e3d-40a9-915d-18fe177b40c0" />
+
+
