@@ -47,6 +47,15 @@ ________________________________________________________________________________
 
 <img width="683" height="853" alt="image" src="https://github.com/user-attachments/assets/d239417c-2709-4d90-bf6e-f4a58547988c" />
 
+### Результат - **Фильтр персонажей по статусу или виду**
+
+<img width="744" height="853" alt="image" src="https://github.com/user-attachments/assets/b66ea37a-259d-48bb-af61-3512effd35c7" />
+<img width="734" height="842" alt="image" src="https://github.com/user-attachments/assets/e166dd17-c62d-4f4d-809f-9e49d0fd95b1" />
+
+### Результат - **Поиск эпизодов по сезону**
+
+
+
 
 
 
