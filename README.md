@@ -58,6 +58,11 @@ ________________________________________________________________________________
 
 <img width="740" height="495" alt="image" src="https://github.com/user-attachments/assets/27da5a5e-4752-4841-b036-63a65153cf4b" />
 
+### **Случайный квест**
+
+<img width="1174" height="679" alt="image" src="https://github.com/user-attachments/assets/428aa2bf-4eb8-4d10-b9ee-d0256b782c97" />
+
+
 ### Результат - **Подсчёт всех персонажей из выбранной локации**
 
 <img width="1025" height="834" alt="image" src="https://github.com/user-attachments/assets/4bf9ce75-85f3-4c34-85ce-9ac0dea07547" />
