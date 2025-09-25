@@ -54,6 +54,21 @@ ________________________________________________________________________________
 
 ### Результат - **Поиск эпизодов по сезону**
 
+<img width="1097" height="718" alt="image" src="https://github.com/user-attachments/assets/07a623b6-2941-4c15-badd-816f6fcd2ff7" />
+
+<img width="740" height="495" alt="image" src="https://github.com/user-attachments/assets/27da5a5e-4752-4841-b036-63a65153cf4b" />
+
+### Результат - **Подсчёт всех персонажей из выбранной локации**
+
+<img width="1025" height="834" alt="image" src="https://github.com/user-attachments/assets/4bf9ce75-85f3-4c34-85ce-9ac0dea07547" />
+
+<img width="1091" height="812" alt="image" src="https://github.com/user-attachments/assets/c3ecd775-d4f6-41f5-bc58-b9ccf3692b9f" />
+
+<img width="994" height="845" alt="image" src="https://github.com/user-attachments/assets/c0950aaa-f87d-4e8f-97eb-169f706c34eb" />
+
+
+
+
 
 
 
