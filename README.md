@@ -66,6 +66,20 @@ ________________________________________________________________________________
 
 <img width="994" height="845" alt="image" src="https://github.com/user-attachments/assets/c0950aaa-f87d-4e8f-97eb-169f706c34eb" />
 
+### Результат - **Экспорт истории действий**
+
+<img width="1053" height="832" alt="image" src="https://github.com/user-attachments/assets/c65cf4fd-019e-4e5a-bbf5-c2f71a55edc2" />
+
+<img width="825" height="841" alt="image" src="https://github.com/user-attachments/assets/44861936-5bae-473d-8cbc-3fa614222cb5" />
+
+<img width="606" height="387" alt="image" src="https://github.com/user-attachments/assets/f7fab13a-4caa-4ddd-9a1b-96816f17af4d" />
+
+<img width="476" height="174" alt="image" src="https://github.com/user-attachments/assets/77eccc26-f8ee-4ddf-81cc-efa039ddd4b8" />
+
+<img width="662" height="361" alt="image" src="https://github.com/user-attachments/assets/a860475c-5bf7-4096-b196-fe78ea3144ac" />
+
+
+
 
 
 
